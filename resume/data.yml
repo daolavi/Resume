@@ -1,0 +1,60 @@
+/* #*/ export const PERSON = `
+name:
+  first: Dao
+  middle:
+  last: Lam
+about: Hi, my name is Dao Lam. I"m just about the most boring type of person you could
+       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
+       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+position: Software Developer
+
+birth:
+  year: 1990
+  location: Vietnam
+
+experience:
+- company: VNG
+  position: Developer
+  timeperiod: 2011 - 2015
+  description: Game programming.
+
+- company: Augen
+  position: Developer
+  timeperiod: since 2015
+  description: Dotnet programming.
+
+education:
+- degree: Bachelor of Engineering
+  timeperiod: 2018 - 2013
+  description: Major in Software Engineer, University of Information Technology, Ho Chi Minh CIty, Vietnam.
+
+# skill level goes 0 to 100
+skills:
+- name: Asp.net, .net core
+  level: 99
+- name: Xamarin
+  level: 90
+- name: JavaScript
+  level: 90
+- name: Node.js
+  level: 90
+- name: Vuejs
+  level: 90
+- name: Unity Game Engine
+  level: 90
+- name: Azure
+  level: 80
+- name: Amazon Web service
+  level: 80
+knowledge: Also proficient in Solidity, Blockchain.
+
+contact:
+  email: daolavi@gmail.com
+  phone: +84 90 358 32 10
+  street: 53 Nguyen Son street, Tan Phu district
+  city: Ho Chi Minh City
+  website: https://daolavi.github.io
+  github: daolavi
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: en
+`
